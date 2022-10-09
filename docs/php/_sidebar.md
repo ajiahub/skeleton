@@ -1,2 +1,4 @@
-* [首页](/)
-* [指南](/guide)
+<!-- docs/_sidebar.md -->
+
+* [Home](/)
+* [Guide](guide.md)
